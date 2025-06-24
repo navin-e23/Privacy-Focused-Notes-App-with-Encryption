@@ -1,4 +1,4 @@
-# 📝 phx-write
+#Navin Notes Web
 
 A privacy-focused, minimalist notes app built with Next.js — supporting both **offline local storage** and **cloud sync**. Migrate your notes when you sign in. Smooth, modern, and open source.
 
